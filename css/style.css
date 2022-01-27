@@ -232,6 +232,7 @@ section {
 
 .menu .box-container .box img {
     height: 25rem;
+    z-index: -1;
 }
 
 .menu .box-container .box img:hover {
